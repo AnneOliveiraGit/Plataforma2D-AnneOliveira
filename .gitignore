@@ -1,0 +1,21 @@
+# Builds
+Build/
+Builds/
+*.exe
+*.dll
+*.apk
+
+# Unity cache/temp
+Library/
+Temp/
+Obj/
+Logs/
+MemoryCaptures/
+UserSettings/
+
+# VS Code
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
